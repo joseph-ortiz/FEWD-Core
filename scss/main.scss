@@ -1,11 +1,9 @@
 $font-stack:    Helvetica, sans-serif;
 $primary-color: #333;
+$niceGreen: rgb(114, 191, 145);
 
 body {
-  font: 100% $font-stack;
-  color: $primary-color;
-}
-
-*{
-	border: 1px solid black;   
+  font: 100% Helvetica, sans-serif;
+  color: #333; 
+	background-color:  $niceGreen
 }
